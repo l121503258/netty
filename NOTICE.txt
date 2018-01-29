@@ -62,6 +62,7 @@ This product contains a modified portion of 'Apache Harmony', an open source
 Java SE, which can be obtained at:
 
   * LICENSE:
+    * license/NOTICE.harmony.txt
     * license/LICENSE.harmony.txt (Apache License 2.0)
   * HOMEPAGE:
     * http://archive.apache.org/dist/harmony/
